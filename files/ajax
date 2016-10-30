@@ -1,0 +1,1 @@
+mboxFactories.get('default').get('target-global-mbox',0).cancelTimeout();mboxFactories.get('default').get('target-global-mbox',0).setOffer(new mboxOfferDefault()).show();_AT.applyWhenReady([{"action":"trackClick","selector":"HTML > BODY > DIV.dbt-main-content:eq(0) > DIV.dbt-intro:eq(0) > DIV.dbt-donate-cntnr:eq(0) > DIV.aBtn:eq(0) > A.BtnNext:eq(0)","clickTrackId":"3.150673"}]);
